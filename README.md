@@ -1,3 +1,3 @@
 # Ionized
-Close-future location of the Quantum API Gradle repository
+Quantum API Gradle
 ^
