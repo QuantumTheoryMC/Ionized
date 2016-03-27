@@ -1,2 +1,2 @@
 # Ionized
-Quantum API Gradle
+QuantumTheoryMC's Maven/Gradle repository.
